@@ -74,6 +74,9 @@ docker attach bedrock-server
 # make operator 
 op "MorganBratt"
 
+# show coordinates
+gamerule showcoordinates true
+
 ```
 
 # update teh server files detailed
